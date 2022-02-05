@@ -1,7 +1,7 @@
 ## Hello_World_App
 
 ### App Description
-`TODO://` This project is aimed at learning hiw to use Xcode to build an app from scratch. I made an app that changess background colours with the click of a button.
+`TODO://` This project is aimed at learning how to use Xcode to build an app from scratch. I made an app that changess background colours with the click of a button.
 
 ### App Walk-though
 `TODO://` 
